@@ -1,0 +1,94 @@
+93
+music/artist/origin	0
+people/deceased person/place of death	1
+people/person/profession	2
+location/administrative division/first level division of	3
+location/us county/county seat	4
+location/location/partially contains	5
+tv/tv program/program creator	6
+film/film/music	7
+tv/tv program/languages	8
+film/film set designer/film sets designed	9
+dataworld/gardening hint/split to	10
+people/person/languages	11
+location/country/form of government	12
+people/person/place of birth	13
+sports/sports team/colors	14
+education/educational institution/school type	15
+location/hud county place/county	16
+location/administrative division/country	17
+film/film/film production design by	18
+tv/tv program/country of origin	19
+location/country/second level divisions	20
+education/educational institution/campuses	21
+people/person/religion	22
+music/instrument/instrumentalists	23
+people/cause of death/people	24
+film/film/film art direction by	25
+film/film/cinematography	26
+base/biblioness/bibs location/state	27
+people/person/gender	28
+film/director/film	29
+olympics/olympic games/sports	30
+music/record label/artist	31
+film/film/story by	32
+people/profession/specialization of	33
+base/americancomedy/celebrity impressionist/celebrities impersonated	34
+tv/tv program/genre	35
+language/human language/countries spoken in	36
+education/university/fraternities and sororities	37
+location/location/time zones	38
+film/film subject/films	39
+education/educational institution/colors	40
+award/award category/category of	41
+film/film/language	42
+film/film/film festivals	43
+base/aareas/schema/administrative area/administrative parent	44
+organization/organization/place founded	45
+medicine/disease/risk factors	46
+broadcast/content/artist	47
+people/deceased person/place of burial	48
+film/film/prequel	49
+film/film/produced by	50
+olympics/olympic games/participating countries	51
+music/genre/parent genre	52
+music/genre/artists	53
+film/film/genre	54
+people/person/nationality	55
+location/country/capital	56
+base/aareas/schema/administrative area/capital	57
+business/business operation/industry	58
+film/film/film format	59
+medicine/disease/notable people with this condition	60
+film/film/costume design by	61
+organization/organization founder/organizations founded	62
+sports/sports team/sport	63
+people/ethnicity/geographic distribution	64
+location/country/official language	65
+film/film/production companies	66
+user/jg/default domain/olympic games/sports	67
+time/event/locations	68
+media common/netflix genre/titles	69
+user/alexander/philosophy/philosopher/interests	70
+base/eating/practicer of diet/diet	71
+medicine/symptom/symptom of	72
+sports/sports team location/teams	73
+music/instrument/family	74
+award/award category/disciplines or subjects	75
+film/film/edited by	76
+film/film/country	77
+time/event/instance of recurring event	78
+influence/influence node/influenced by	79
+base/culturalevent/event/entity involved	80
+people/ethnicity/people	81
+location/hud county place/place	82
+base/aareas/schema/administrative area/administrative area type	83
+base/locations/continents/countries within	84
+film/film/written by	85
+film/film/featured film locations	86
+education/educational institution campus/educational institution	87
+people/ethnicity/languages spoken	88
+film/film/executive produced by	89
+location/location/contains	90
+base/biblioness/bibs location/country	91
+user/ktrueman/default domain/international organization/member states	92

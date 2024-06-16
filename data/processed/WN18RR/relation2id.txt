@@ -1,0 +1,12 @@
+11
+member of domain usage	0
+has part	1
+also see	2
+hypernym	3
+synset domain topic of	4
+derivationally related form	5
+similar to	6
+instance hypernym	7
+verb group	8
+member meronym	9
+member of domain region	10
